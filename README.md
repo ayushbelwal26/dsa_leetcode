@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0875-koko-eating-bananas) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1929-concatenation-of-array) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
