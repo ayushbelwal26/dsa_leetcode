@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0875-koko-eating-bananas) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0561-array-partition) |
 ## Simulation
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
