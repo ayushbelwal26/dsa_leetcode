@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1053-previous-permutation-with-one-swap](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1053-previous-permutation-with-one-swap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0561-array-partition) |
+| [1053-previous-permutation-with-one-swap](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1053-previous-permutation-with-one-swap) |
 ## Simulation
 |  |
 | ------- |
