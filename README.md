@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0283-move-zeroes) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0035-search-insert-position) |
