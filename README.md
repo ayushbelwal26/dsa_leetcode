@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0704-binary-search) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0561-array-partition) |
 | [1053-previous-permutation-with-one-swap](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1053-previous-permutation-with-one-swap) |
 ## Simulation
@@ -148,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1051-height-checker) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
