@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1051-height-checker) |
 | [1053-previous-permutation-with-one-swap](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1053-previous-permutation-with-one-swap) |
+| [1389-create-target-array-in-the-given-order](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
