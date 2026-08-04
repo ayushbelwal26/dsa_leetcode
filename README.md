@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1929-concatenation-of-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3731-find-missing-elements](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3731-find-missing-elements](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [3731-find-missing-elements](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
