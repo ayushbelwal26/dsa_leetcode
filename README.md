@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0567-permutation-in-string) |
 | [3731-find-missing-elements](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/3731-find-missing-elements) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0561-array-partition) |
