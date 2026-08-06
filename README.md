@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0069-sqrtx) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
 | ------- |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
