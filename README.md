@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0410-split-array-largest-sum) |
@@ -199,9 +201,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0567-permutation-in-string) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
