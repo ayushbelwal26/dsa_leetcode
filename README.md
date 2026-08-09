@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1051-height-checker) |
 | [1053-previous-permutation-with-one-swap](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1053-previous-permutation-with-one-swap) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
