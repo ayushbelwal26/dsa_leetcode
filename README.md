@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0414-third-maximum-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0410-split-array-largest-sum) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1672-richest-customer-wealth) |
