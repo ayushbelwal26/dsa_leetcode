@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0567-permutation-in-string) |
