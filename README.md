@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0090-subsets-ii) |
 ## Memoization
@@ -360,4 +361,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
