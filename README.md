@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -348,10 +349,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0090-subsets-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0509-fibonacci-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
