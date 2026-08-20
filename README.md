@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3945-digit-frequency-score](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/3866-first-unique-even-element) |
+| [3945-digit-frequency-score](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
