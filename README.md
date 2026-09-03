@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0204-count-primes) |
+| [0342-power-of-four](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0509-fibonacci-number) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/ayushbelwal26/dsa_leetcode/tree/master/0832-flipping-an-image) |
 ## Pigeonhole Principle
 |  |
